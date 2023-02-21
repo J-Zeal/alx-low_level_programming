@@ -1,5 +1,3 @@
-#include "main.h"
-
 /**
  * print_last_digit - print last digit of a number
  * @n: The number to be treated
@@ -7,6 +5,7 @@
  */
 
 int print_last_digit(int n)
+
 {
         int last;
         last = n % 10;
